@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Machine Learning Algorithms from Scratch
 
 This Page contains codes for machine learning algorithms written from scratch such as: 
 
