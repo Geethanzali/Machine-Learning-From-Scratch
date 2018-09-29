@@ -1,7 +1,7 @@
 # Implementation of Neural Network from Scratch
 
-Implementation a single-hidden-layer neural network with a sigmoid activation
-function for the hidden layer, and a softmax on the output layer.
+Implementation a single-hidden-layer neural network with a sigmoid activation function for the hidden layer, 
+and a softmax on the output layer.
 
 **DataSet**: Optical Character Recognition (OCR) dataset.
 
