@@ -1,4 +1,4 @@
-## Decision Tree
+## Decision Tree from Scratch
 
 1) Learns a decision tree with a specified maximum depth using **ID3 Algorithm**
 
